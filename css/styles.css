@@ -1,0 +1,20 @@
+h1, h2 {
+    color: #f7325e;
+}
+
+body {
+    color: #7dc410;
+    font-family: fantasy;
+}
+
+.popular {
+    color: red;
+    font-weight: bolder;
+}
+.img {
+    display: flex;
+    padding: 2px;
+    justify-content: space-between;
+    height: 20px;
+    width: 20px;
+}
